@@ -1,0 +1,5 @@
+streamlit>=1.41
+langgraph>=0.2.60
+chromadb>=0.5.13
+python-dotenv>=1.0
+openai>=1.40
