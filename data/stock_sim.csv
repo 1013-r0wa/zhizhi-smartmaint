@@ -1,0 +1,7 @@
+part_code,part_name,part_name_en,qty,location,substitute
+ENC-1023,编码器反馈线缆,Encoder feedback cable,1,A-01-05,无
+FAN-2041,冷却风扇组件,Cooling fan assembly,2,A-03-12,FAN-2042
+HP-3105,液压泵,Hydraulic pump,0,待采购,HP-3106
+RV-3105,溢流阀,Relief valve,3,B-02-11,无
+PIN-4102,刀套定位销,Tool sleeve locating pin,5,C-01-02,无
+LUB-5207,导轨润滑油,Guideway lubricating oil,8,B-04-01,无
